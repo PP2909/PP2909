@@ -26,7 +26,8 @@ I'm a Computer Science student who is exploring programming and learning how sof
 </p>
 
 - **Python** (basic understanding)  
-- **HTML, CSS** (basic frontend)  
+- **HTML, CSS** (basic frontend)
+- **MYSQL**  
 - **PostgreSQL** (beginner)  
 - **Git & GitHub**
 
